@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Priyanka Wagar 👋
 
-<!--
-**priyankaCodes813/priyankaCodes813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year CSE Student | 💻 Aspiring Developer
 
-Here are some ideas to get you started:
+I'm exploring the world of technology, experimenting with AI-assisted website building, and learning along the way. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- **Languages:** C, Python, C++ (Basics)
+- **Interests:** Web Development, AI Tools, Problem-Solving
+- **Strengths:** Communication, Teamwork, Collaboration
+
+### 🏆 Experience
+- Participated in hackathons and gained hands-on collaborative experience.
+- Exploring website creation with AI tools.
+
+### 🌱 Currently
+Learning web development and working toward building projects while strengthening my technical skills.
+
+### 🤝 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanka-bhagat-301a1b378?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📧 [Gmail](bhagatpriyanka2023@gmail.com)
+
+⭐ *Learning, building, and improving one step at a time.*
